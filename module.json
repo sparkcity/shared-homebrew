@@ -1,0 +1,146 @@
+{
+  "id": "shared-homebrew",
+  "title": "Shared Homebrew",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Parker",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "hippogriffs-classes",
+      "label": "Hippogriff's Classes",
+      "path": "packs/hippogriffs-classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "hippogriffs-spells",
+      "label": "Hippogriff's Spells",
+      "path": "packs/hippogriffs-spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "misc-spells",
+      "label": "Misc Spells",
+      "path": "packs/misc-spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "misc-items",
+      "label": "Misc Items",
+      "path": "packs/misc-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "misc-features",
+      "label": "Misc Features",
+      "path": "packs/misc-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "hippogriffs-features",
+      "label": "Hippogriff's Features",
+      "path": "packs/hippogriffs-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "hippogriffs-items",
+      "label": "Hippogriff's Items",
+      "path": "packs/hippogriffs-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "kibbles-crafting-items",
+      "label": "Kibbles Crafting - Items",
+      "path": "packs/kibbles-crafting-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "kibbles-crafting-notes",
+      "label": "Kibbles Crafting - Notes",
+      "path": "packs/kibbles-crafting-notes",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "misc-creatures",
+      "label": "Misc Creatures",
+      "path": "packs/misc-creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
