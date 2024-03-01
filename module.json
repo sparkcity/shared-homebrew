@@ -142,5 +142,46 @@
       "system": "dnd5e",
       "flags": {}
     }
+  ],
+    "packFolders": [
+      {
+          "name": "Shared Homebrew",
+          "sorting": "m",
+          "color": "#13489e",
+          "packs": [],
+          "folders": [
+              {
+                  "name": "Hippogriff's Campaign Index",
+                  "sorting": "m",
+                  "color": "#4d58a1",
+                  "packs": [
+                      "hippogriffs-classes",
+                      "hippogriffs-spells",
+                      "hippogriffs-features",
+                      "hippogriffs-items"
+                  ]
+              },
+              {
+                  "name": "Kibbles Compendium of Craft and Creation",
+                  "sorting": "m",
+                  "color": "#5c4da1",
+                  "packs": [
+                      "kibbles-crafting-notes",
+                      "kibbles-crafting-items"
+                  ]
+              },
+              {
+                  "name": "Miscellaneous",
+                  "sorting": "m",
+                  "color": "#734da1",
+                  "packs": [
+                      "misc-creatures",
+                      "misc-features",
+                      "misc-items",
+                      "misc-spells"
+                  ]
+              }
+          ]
+      }
   ]
 }
