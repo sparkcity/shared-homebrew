@@ -185,5 +185,6 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/sparkcity/shared-homebrew/main/module.json",
-  "download": "https://thedruidarchivist-patreon.s3.us-east-2.amazonaws.com/the-druid-archivist-patreon.zip"
+  "download": "https://github.com/sparkcity/shared-homebrew/raw/main/dist/shared-homebrew-1.0.0.zip",
+  "protected": true
 }
