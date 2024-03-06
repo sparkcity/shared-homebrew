@@ -1,5 +1,3 @@
-2024/03/05-01:38:56.187 ddc Recovering log #15
-2024/03/05-01:38:56.188 ddc Level-0 table #17: started
-2024/03/05-01:38:56.192 ddc Level-0 table #17: 45386 bytes OK
-2024/03/05-01:38:56.198 ddc Delete type=0 #15
-2024/03/05-01:38:56.198 ddc Delete type=3 #14
+2024/03/06-14:05:44.330 329c Recovering log #30
+2024/03/06-14:05:44.334 329c Delete type=0 #30
+2024/03/06-14:05:44.334 329c Delete type=3 #28
