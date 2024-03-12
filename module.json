@@ -141,6 +141,54 @@
       },
       "system": "dnd5e",
       "flags": {}
+    },
+    {
+      "name": "parker-creatures",
+      "label": "Parker Creatures",
+      "path": "packs/parker-creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "parker-items",
+      "label": "Parker Items",
+      "path": "packs/parker-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "parker-features",
+      "label": "Parker Features",
+      "path": "packs/parker-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "parker-spells",
+      "label": "Parker Spells",
+      "path": "packs/parker-spells",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -179,6 +227,17 @@
             "misc-features",
             "misc-items",
             "misc-spells"
+          ]
+        },
+        {
+          "name": "Parker Homebrew",
+          "sorting": "m",
+          "color": "#785bae",
+          "packs": [
+            "parker-creatures",
+            "parker-features",
+            "parker-items",
+            "parker-spells"
           ]
         }
       ]
