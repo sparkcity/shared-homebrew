@@ -1,7 +1,7 @@
 {
   "id": "shared-homebrew",
   "title": "Shared Homebrew",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -107,6 +107,18 @@
       "flags": {}
     },
     {
+      "name": "hippogriffs-notes",
+      "label": "Hippogriff's Compendium",
+      "path": "packs/hippogriffs-notes",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
       "name": "kibbles-crafting-items",
       "label": "Kibbles Crafting - Items",
       "path": "packs/kibbles-crafting-items",
@@ -204,6 +216,7 @@
           "color": "#4d58a1",
           "packs": [
             "hippogriffs-classes",
+            "hippogriffs-notes",
             "hippogriffs-spells",
             "hippogriffs-features",
             "hippogriffs-items"
@@ -244,5 +257,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/sparkcity/shared-homebrew/main/module.json",
-  "download": "https://github.com/sparkcity/shared-homebrew/raw/main/dist/shared-homebrew-1.0.8.zip"
+  "download": "https://github.com/sparkcity/shared-homebrew/raw/main/dist/shared-homebrew-1.0.9.zip"
 }
