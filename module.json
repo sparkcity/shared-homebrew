@@ -107,6 +107,18 @@
       "flags": {}
     },
     {
+      "name": "hippogriffs-notes",
+      "label": "Hippogriff's Compendium",
+      "path": "packs/hippogriffs-notes",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
       "name": "kibbles-crafting-items",
       "label": "Kibbles Crafting - Items",
       "path": "packs/kibbles-crafting-items",
@@ -204,6 +216,7 @@
           "color": "#4d58a1",
           "packs": [
             "hippogriffs-classes",
+            "hippogriffs-notes",
             "hippogriffs-spells",
             "hippogriffs-features",
             "hippogriffs-items"
