@@ -1,7 +1,7 @@
 {
   "id": "shared-homebrew",
   "title": "Shared Homebrew",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -206,13 +206,13 @@
   "packFolders": [
     {
       "name": "Shared Homebrew",
-      "sorting": "m",
+      "sorting": "a",
       "color": "#13489e",
       "packs": [],
       "folders": [
         {
           "name": "Hippogriff's Campaign Index",
-          "sorting": "m",
+          "sorting": "a",
           "color": "#4d58a1",
           "packs": [
             "hippogriffs-classes",
@@ -224,7 +224,7 @@
         },
         {
           "name": "Kibbles Compendium of Craft and Creation",
-          "sorting": "m",
+          "sorting": "a",
           "color": "#5c4da1",
           "packs": [
             "kibbles-crafting-notes",
@@ -233,7 +233,7 @@
         },
         {
           "name": "Miscellaneous",
-          "sorting": "m",
+          "sorting": "a",
           "color": "#734da1",
           "packs": [
             "misc-creatures",
@@ -244,7 +244,7 @@
         },
         {
           "name": "Parker Homebrew",
-          "sorting": "m",
+          "sorting": "a",
           "color": "#785bae",
           "packs": [
             "parker-creatures",
