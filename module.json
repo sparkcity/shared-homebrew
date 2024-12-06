@@ -1,7 +1,7 @@
 {
   "id": "shared-homebrew",
   "title": "Shared Homebrew",
-  "version": "1.5.0",
+  "version": "1.5.2",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -156,7 +156,7 @@
     },
     {
       "name": "parker-creatures",
-      "label": "Parker Creatures",
+      "label": "Parker's Creatures",
       "path": "packs/parker-creatures",
       "type": "Actor",
       "ownership": {
@@ -168,7 +168,7 @@
     },
     {
       "name": "parker-items",
-      "label": "Parker Items",
+      "label": "Parker's Items",
       "path": "packs/parker-items",
       "type": "Item",
       "ownership": {
@@ -180,7 +180,7 @@
     },
     {
       "name": "parker-features",
-      "label": "Parker Features",
+      "label": "Parker's Features",
       "path": "packs/parker-features",
       "type": "Item",
       "ownership": {
@@ -192,7 +192,7 @@
     },
     {
       "name": "parker-spells",
-      "label": "Parker Spells",
+      "label": "Parker's Spells",
       "path": "packs/parker-spells",
       "type": "Item",
       "ownership": {
@@ -243,7 +243,7 @@
           ]
         },
         {
-          "name": "Parker Homebrew",
+          "name": "Parker's Homebrew",
           "sorting": "a",
           "color": "#785bae",
           "packs": [
