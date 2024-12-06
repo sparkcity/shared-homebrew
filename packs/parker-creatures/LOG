@@ -1,3 +1,5 @@
-2024/12/04-18:07:33.634 3e1c Recovering log #78
-2024/12/04-18:07:33.636 3e1c Delete type=0 #78
-2024/12/04-18:07:33.636 3e1c Delete type=3 #76
+2024/12/05-20:17:24.308 4ff0 Recovering log #80
+2024/12/05-20:17:24.308 4ff0 Level-0 table #82: started
+2024/12/05-20:17:24.318 4ff0 Level-0 table #82: 488 bytes OK
+2024/12/05-20:17:24.323 4ff0 Delete type=0 #80
+2024/12/05-20:17:24.323 4ff0 Delete type=3 #79
