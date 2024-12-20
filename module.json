@@ -36,7 +36,7 @@
     },
     {
       "name": "hippogriffs-spells",
-      "label": "Hippogriff's Spells",
+      "label": "Hippogriff's Spells & Spell Revisions",
       "path": "packs/hippogriffs-spells",
       "type": "Item",
       "ownership": {
@@ -72,7 +72,7 @@
     },
     {
       "name": "misc-features",
-      "label": "Misc Features",
+      "label": "Miscellaneous Features",
       "path": "packs/misc-features",
       "type": "Item",
       "ownership": {
