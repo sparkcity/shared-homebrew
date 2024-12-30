@@ -1,7 +1,7 @@
 {
   "id": "shared-homebrew",
   "title": "Shared Homebrew",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -201,6 +201,18 @@
       },
       "system": "dnd5e",
       "flags": {}
+    },
+    {
+      "name": "parkers-notes",
+      "label": "Parker's Notes",
+      "path": "packs/parkers-notes",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -250,7 +262,8 @@
             "parker-creatures",
             "parker-features",
             "parker-items",
-            "parker-spells"
+            "parker-spells",
+            "parkers-notes"
           ]
         }
       ]
