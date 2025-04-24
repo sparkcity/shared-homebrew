@@ -1,5 +1,5 @@
-2025/04/17-18:27:13.200 7dcc Recovering log #138
-2025/04/17-18:27:13.201 7dcc Level-0 table #140: started
-2025/04/17-18:27:13.204 7dcc Level-0 table #140: 64799 bytes OK
-2025/04/17-18:27:13.206 7dcc Delete type=0 #138
-2025/04/17-18:27:13.206 7dcc Delete type=3 #137
+2025/04/17-21:36:12.810 aabc Recovering log #141
+2025/04/17-21:36:12.813 aabc Level-0 table #143: started
+2025/04/17-21:36:12.819 aabc Level-0 table #143: 654352 bytes OK
+2025/04/17-21:36:12.823 aabc Delete type=0 #141
+2025/04/17-21:36:12.823 aabc Delete type=3 #139
