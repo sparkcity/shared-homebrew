@@ -1,5 +1,10 @@
-2025/04/17-21:36:12.810 aabc Recovering log #141
-2025/04/17-21:36:12.813 aabc Level-0 table #143: started
-2025/04/17-21:36:12.819 aabc Level-0 table #143: 654352 bytes OK
-2025/04/17-21:36:12.823 aabc Delete type=0 #141
-2025/04/17-21:36:12.823 aabc Delete type=3 #139
+2025/04/24-18:06:07.820 6a64 Recovering log #144
+2025/04/24-18:06:07.822 6a64 Delete type=0 #144
+2025/04/24-18:06:07.822 6a64 Delete type=3 #142
+2025/04/24-18:32:17.447 a16c Compacting 3@0 + 0@1 files
+2025/04/24-18:32:17.452 a16c Generated table #147@0: 60 keys, 62076 bytes
+2025/04/24-18:32:17.452 a16c Compacted 3@0 + 0@1 files => 62076 bytes
+2025/04/24-18:32:17.453 a16c compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/24-18:32:17.453 a16c Delete type=2 #121
+2025/04/24-18:32:17.454 a16c Delete type=2 #140
+2025/04/24-18:32:17.454 a16c Delete type=2 #143
