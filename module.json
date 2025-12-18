@@ -1,7 +1,7 @@
 {
   "id": "shared-homebrew",
   "title": "Shared Homebrew",
-  "version": "1.13.0",
+  "version": "1.14.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
@@ -213,6 +213,18 @@
       },
       "system": "dnd5e",
       "flags": {}
+    },
+    {
+      "name": "hippogriffs-tables",
+      "label": "Hippogriff's Tables",
+      "path": "packs/hippogriffs-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -231,7 +243,8 @@
             "hippogriffs-notes",
             "hippogriffs-spells",
             "hippogriffs-features",
-            "hippogriffs-items"
+            "hippogriffs-items",
+            "hippogriffs-tables"
           ]
         },
         {
