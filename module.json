@@ -1,7 +1,7 @@
 {
   "id": "shared-homebrew",
   "title": "Shared Homebrew",
-  "version": "1.14.0",
+  "version": "1.14.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
@@ -11,7 +11,11 @@
       {
         "id": "dnd5e",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "5.0.0",
+          "verified": "5.2.4",
+          "maximum": "5.2.99"
+        }
       }
     ]
   },
