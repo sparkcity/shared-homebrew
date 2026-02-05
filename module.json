@@ -1,7 +1,7 @@
 {
   "id": "shared-homebrew",
   "title": "Shared Homebrew",
-  "version": "1.14.1",
+  "version": "1.15.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
@@ -119,30 +119,6 @@
       "flags": {}
     },
     {
-      "name": "kibbles-crafting-items",
-      "label": "Kibbles Crafting - Items",
-      "path": "packs/kibbles-crafting-items",
-      "type": "Item",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    },
-    {
-      "name": "kibbles-crafting-notes",
-      "label": "Kibbles Crafting - Notes",
-      "path": "packs/kibbles-crafting-notes",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    },
-    {
       "name": "misc-creatures",
       "label": "Misc Creatures",
       "path": "packs/misc-creatures",
@@ -225,6 +201,18 @@
       },
       "system": "dnd5e",
       "flags": {}
+    },
+      {
+      "name": "parkers-tables",
+      "label": "Parker's Tables",
+      "path": "packs/parkers-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -248,15 +236,6 @@
           ]
         },
         {
-          "name": "Kibbles Compendium of Craft and Creation",
-          "sorting": "a",
-          "color": "#5c4da1",
-          "packs": [
-            "kibbles-crafting-notes",
-            "kibbles-crafting-items"
-          ]
-        },
-        {
           "name": "Miscellaneous",
           "sorting": "a",
           "color": "#734da1",
@@ -276,7 +255,8 @@
             "parker-features",
             "parker-items",
             "parker-spells",
-            "parkers-notes"
+            "parkers-notes",
+            "parkers-tables"
           ]
         }
       ]
